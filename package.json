@@ -1,0 +1,19 @@
+{
+  "name": "geo_radius_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Michael Kreil <github@michael-kreil.de> (https://github.com/MichaelKreil)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@turf/area": "^6.5.0",
+    "@turf/bbox-polygon": "^6.5.0",
+    "@turf/circle": "^6.5.0",
+    "@turf/difference": "^6.5.0",
+    "@turf/distance": "^6.5.0",
+    "@turf/explode": "^6.5.0",
+    "node-fetch": "^3.3.1"
+  }
+}
