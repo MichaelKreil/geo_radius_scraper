@@ -1,7 +1,7 @@
 'use strict'
 
 import { writeFileSync } from 'node:fs';
-import { createCachedRequest, runScraper } from './index.js';
+import { createCachedClient, runScraper } from './index.js';
 
 let { get } = createCachedClient('tmp');
 let apotheken = new Map();
