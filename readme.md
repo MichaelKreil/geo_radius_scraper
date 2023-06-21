@@ -1,6 +1,6 @@
 # Geo Radius Scraper
 
-Helps when scraping geo data from an API that return points nearby a given location.
+Helps when scraping geodata from an API that returns points near a given location.
 
 # How does it work
 
