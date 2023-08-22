@@ -1,3 +1,4 @@
 
+*.json.br
 /node_modules/
 /tmp/
